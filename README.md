@@ -8,3 +8,6 @@ Click to check out reflective thoughts and a case study on EAD
 
 Video URL
 https://youtu.be/hHLWjkeN4vg/
+
+
+[[Gollum|gollum.pdf]]
