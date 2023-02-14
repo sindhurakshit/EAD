@@ -6,8 +6,6 @@ Click to check out reflective thoughts and a case study on EAD
 
 [![Refelective thoughts on EAD](https://i9.ytimg.com/vi/hHLWjkeN4vg/mq2.jpg?sqp=CJSDr58G-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gHygTMA8=&rs=AOn4CLDnx3wlRgjFwUnqalSU0ncYgRkvsA)](http://www.youtube.com/watch?v=hHLWjkeN4vg "Refelective thoughts on Ethically Aligned Design (EAD)")
 
+
 Video URL
 https://youtu.be/hHLWjkeN4vg/
-
-
-[[Gollum|gollum.pdf]]
